@@ -8,28 +8,29 @@
   "background_color": "#202124",
   "icons": [
     {
-      "src": "https://snowsteve98.github.io/Psy-Tracker/psytrack.png",
+      "src": "https://snowsteve98.github.io/Psy-Tracker/psy.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://snowsteve98.github.io/Psy-Tracker/psytrack.png",
+      "src": "https://snowsteve98.github.io/Psy-Tracker/psy.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://snowsteve98.github.io/Psy-Tracker/psytrack.png",
+      "src": "https://snowsteve98.github.io/Psy-Tracker/psy.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://snowsteve98.github.io/Psy-Tracker/psytrack.png",
+      "src": "https://snowsteve98.github.io/Psy-Tracker/psy.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     }
   ]
 }
+
