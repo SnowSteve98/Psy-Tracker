@@ -1,10 +1,10 @@
 {
   "name": "PsyTrack",
   "short_name": "PsyTrack",
-  "start_url": "",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#202124",
+  "background_color": "#202124"
   "icons": [
     {
       "src": "psytrack.png",
@@ -19,4 +19,5 @@
       "purpose": "any maskable"
     }
   ]
+
 }
